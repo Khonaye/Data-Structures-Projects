@@ -1,0 +1,2 @@
+This project is written in C++, it converts a binary number to a decimal number. It uses a stack to perform this task.
+It is a Dev C++ project.
